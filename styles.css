@@ -1,2 +1,22 @@
-
 /* Your CSS Code here. */
+.main{
+	display:flex;
+	flex-wrap:wrap;
+	
+}
+.third{
+	background-color:green;
+	height:100px;
+	width:100px;
+	text-size:12px;
+}
+.one{
+	background-color:red;
+	height:100px;
+	width:100px;
+}
+.two{
+	background-color:blue;
+	height:100px;
+	width:100px;
+}
